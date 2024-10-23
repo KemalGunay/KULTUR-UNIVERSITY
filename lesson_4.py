@@ -1,4 +1,3 @@
-
 ###############
 # LIST
 ###############
@@ -119,7 +118,6 @@ print(list8)
 list7 = ["kemal", "eren", "kuzey", "halil", "mete", "omer"]
 list7.remove("kemal")
 print(list7)
-
 
 
 
