@@ -11,6 +11,7 @@ Run
 # Git
 Git basics
 
+# Python
 Variables, syntax
 
 Data Manipulation 
