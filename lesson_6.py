@@ -165,7 +165,7 @@ while i < len(mytuple):
     print(mytuple[i])
     i = i + 1
 
-# diğer dosyada devam ediyor
+# diğer dosyada devam ediyor...
 
 
 
